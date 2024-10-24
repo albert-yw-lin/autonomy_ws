@@ -114,10 +114,10 @@ Visualization Manager:
         Value: /camera/color/image_raw
       Value: false
       Visibility:
-        "": true
         Camera: true
         Grid: true
         Map: true
+        Path: true
         TF: true
         Value: true
       Zoom Factor: 1
@@ -135,10 +135,10 @@ Visualization Manager:
         Value: /camera/depth/image_rect_raw
       Value: false
       Visibility:
-        "": true
         Camera: true
         Grid: true
         Map: true
+        Path: true
         TF: true
         Value: true
       Zoom Factor: 1
@@ -303,5 +303,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1517
-  X: 3085
-  Y: 318
+  X: 726
+  Y: 332
